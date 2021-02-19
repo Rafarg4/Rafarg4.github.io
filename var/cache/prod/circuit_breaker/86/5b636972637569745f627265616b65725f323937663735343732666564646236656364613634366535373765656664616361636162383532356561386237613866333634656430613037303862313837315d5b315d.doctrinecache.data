@@ -1,0 +1,91 @@
+1613858090
+s:6248:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Caso de éxito Prestashop: Kubekings.com</title>
+    <link>https://www.prestashop.com/es/blog/kuberings</link>
+    <description>Desde Prestashop estamos identificando proyectos que consideramos casos de éxito basados en muchos y variados factores como los niveles de facturación alcanzados, la escalabilidad, la internacional</description>
+     <pubDate>Wed, 17 Feb 2021 10:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/kuberings</guid>
+  </item>
+  <item>
+    <title>Redes sociales para eCommerce: ¿cuáles son las mejores para mi tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/redes-sociales-mas-utilizadas</link>
+    <description>Nadie diría, que hace apenas unos diez años, las redes sociales eran completamente desconocidas para la gran mayoría de habitantes del planeta.</description>
+     <pubDate>Tue, 16 Feb 2021 14:37:32 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/redes-sociales-mas-utilizadas</guid>
+  </item>
+  <item>
+    <title>Los comerciantes tienen la palabra: Especial San Valentín 2021 </title>
+    <link>https://www.prestashop.com/es/blog/comerciantes-sanvalentin-2021</link>
+    <description>El Día de San Valentín es una de las principales citas para los enamorados y es uno de los períodos comerciales más destacados del año, tendiendo a ocupar el tercer lugar en determinado</description>
+     <pubDate>Fri, 12 Feb 2021 18:07:52 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/comerciantes-sanvalentin-2021</guid>
+  </item>
+  <item>
+    <title>¿Cómo impulsar la omnicanalidad desde un eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/omnicanalidad</link>
+    <description>El comportamiento de los consumidores está cambiando y los negocios deben adaptarte a ello para poder sobrevivir en el sector.</description>
+     <pubDate>Tue, 09 Feb 2021 14:47:45 +0100</pubDate>
+ <dc:creator>Mireia Francès Matas</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/omnicanalidad</guid>
+  </item>
+  <item>
+    <title>Con su última versión, Amazon Pay optimiza la experiencia del paso por caja para los negocios de PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/amazon-pay-prestashop</link>
+    <description>Ahora los vendedores de PrestaShop pueden optimizar su experiencia de paso por caja para clientes de Amazon con la última versión de Amazon Pay.</description>
+     <pubDate>Mon, 08 Feb 2021 18:16:46 +0100</pubDate>
+ <dc:creator>Alberto Moreno</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/amazon-pay-prestashop</guid>
+  </item>
+  <item>
+    <title>IVA y Brexit, lo que cambia para los comerciantes</title>
+    <link>https://www.prestashop.com/es/blog/brexit-iva</link>
+    <description>El 31 de diciembre de 2020, el Reino Unido abandonó definitivamente la Unión Europea, y por lo tanto el Brexit es oficia</description>
+     <pubDate>Wed, 20 Jan 2021 17:19:22 +0100</pubDate>
+ <dc:creator>Tanguy Jacquet .</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/brexit-iva</guid>
+  </item>
+  <item>
+    <title>Cómo definir la misión, visión y valores de tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/que-es-mision-vision-valores</link>
+    <description>Conocer y gestionar los conceptos de misión, visión y valores de tu eCommerce es fundamental para trazar bien tu estrategia de negocio. </description>
+     <pubDate>Thu, 31 Dec 2020 12:00:00 +0100</pubDate>
+ <dc:creator>Marisol García</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-mision-vision-valores</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Z pattern y cómo emplear este diseño en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/z-pattern</link>
+    <description>¿Quién será el protagonista del post de hoy? ¿El Zorro y su característica Z?</description>
+     <pubDate>Wed, 30 Dec 2020 17:00:00 +0100</pubDate>
+ <dc:creator>Don Pablo Bernal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/z-pattern</guid>
+  </item>
+  <item>
+    <title>Soytuhogar, ¡un eCommerce fuera de lo corriente!</title>
+    <link>https://www.prestashop.com/es/blog/soytuhogar</link>
+    <description>Desde PrestaShop estamos identificando proyectos que consideramos casos de éxito basados en muchos y variados factores como los niveles de facturación alcanzados, la escalabilidad, la internacional</description>
+     <pubDate>Wed, 30 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/soytuhogar</guid>
+  </item>
+  <item>
+    <title>7 formas de gestionar el envío gratuito en tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/gestionar-envio-gratuito-ecommerce</link>
+    <description>Uno de los aspectos decisivos en la relación entre cliente y eCommerce es el gasto de envío.</description>
+     <pubDate>Tue, 29 Dec 2020 15:00:00 +0100</pubDate>
+ <dc:creator>Marisa Casasola</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/gestionar-envio-gratuito-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
+";

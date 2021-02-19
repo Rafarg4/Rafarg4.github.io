@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pagopar</name>
+    <displayName><![CDATA[Pagopar]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Ofrec&eacute; a tus clientes pagar con todos los medios de pago disponibles en el mercado de Paraguay a trav&eacute;s de Pagopar. Podr&aacute;n pagar con tarjeta de cr&eacute;dito (Procesadoras: Bancard, Procard), bocas de cobranzas (Aquipago, Practipago, Pagoexpress), billeteras electronicas (Tigo Money y BIlletera Personal) y muchos medios de pagos mas.]]></description>
+    <author><![CDATA[Pagopar - Grupo M SA]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
